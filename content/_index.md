@@ -10,6 +10,7 @@ subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forest
 template = "hero-section"
 [[blocks]]
 content = "**Sawmill** is a simplistic Hugo theme built to take advantage of [Forestry CMS](https://forestry.io \"Forestry.io\")'s Blocks feature.\n\nThis theme includes a few basic components to get started with Blocks right away and create dynamic, visually interesting layouts. Once you get the hang of Sawmill's modular content strategy, you are encouraged to start creating your own components to fit the needs of your website."
+summary = "Sawmill description"
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
