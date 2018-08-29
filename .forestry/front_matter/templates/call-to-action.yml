@@ -1,7 +1,8 @@
 ---
-label: call-to-action
+label: Call to Action
 hide_body: true
 is_partial: true
+display_field: heading
 fields:
 - type: text
   name: heading
