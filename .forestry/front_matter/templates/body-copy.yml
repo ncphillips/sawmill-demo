@@ -3,6 +3,9 @@ label: body-copy
 hide_body: false
 is_partial: true
 fields:
+- type: text
+  label: Summary
+  name: summary
 - type: textarea
   name: content
   label: Content
