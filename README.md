@@ -18,3 +18,11 @@
   * [front matter](#/frontmatter/edit/call-to-action/)
   * [html](https://github.com/dwalkr/sawmill/blob/master/layouts/partials/blocks/cta.html)
   
+They're pretty sweet.
+
+```
+console.log("Example")
+```
+
+Sweet Christmas
+  
