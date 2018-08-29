@@ -7,6 +7,8 @@
 * [Setup Hosting](#/settings/hosting)
 * [Join our Slack Community](https://forestry.io/blog/join-our-slack-community/)
 
+> The coolest thing since sliced wood!
+
 ### Blocks
 * Media Feature
   * [front matter](#/frontmatter/edit/media-feature/)
