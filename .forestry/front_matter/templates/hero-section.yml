@@ -2,7 +2,7 @@
 label: Hero
 hide_body: true
 is_partial: true
-display_field: subheading
+display_field: heading
 fields:
 - type: text
   name: heading
