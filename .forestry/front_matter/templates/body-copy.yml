@@ -1,8 +1,12 @@
 ---
-label: body-copy
+label: Copy
 hide_body: false
 is_partial: true
+display_field: summary
 fields:
+- type: text
+  name: summary
+  label: Summary
 - type: textarea
   name: content
   label: Content
