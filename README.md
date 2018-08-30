@@ -10,6 +10,9 @@
 > The coolest thing since sliced wood!
 
 ### Blocks
+
+The Sawmill Theme has several re-useable blocks:
+
 * Media Feature
   * [front matter](#/frontmatter/edit/media-feature/)
   * [html](https://github.com/dwalkr/sawmill/blob/master/layouts/partials/blocks/media-feature.html)
