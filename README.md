@@ -2,6 +2,8 @@
 
 [Read the announcement post on Forestry.io](https://forestry.io/blog/sawmill-layout-composer-for-hugo-and-forestry/#/)
 
+<button onClick="alert('test')">Test</button>
+
 ### Getting Started
 * [Edit the Home Page](#/pages/content-_index-md/)
 * [Setup Hosting](#/settings/hosting)
