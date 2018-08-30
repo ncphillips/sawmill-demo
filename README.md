@@ -31,3 +31,7 @@ console.log("Example")
 
 Sweet Christmas
   
+
+<script type="application/javascript">
+ console.log("Welcome to Forestry")
+ </script>
