@@ -1,6 +1,7 @@
 {
   "name": "cms",
   "version": "0.1.0",
+	"homepage": "https://github.com/ncphillips/sawmill-demo/tree/dev/build",
   "private": true,
   "dependencies": {
     "@forestryio/forestry-ui": "^1.0.10",
