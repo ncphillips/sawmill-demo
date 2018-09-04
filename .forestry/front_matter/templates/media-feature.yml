@@ -49,3 +49,10 @@ fields:
   template: button
   label: Call To Action
   name: call_to_action
+- type: color
+  name: color
+  config:
+    color_format: Hex
+    required: true
+  label: Color
+  default: "#E1FF78"
