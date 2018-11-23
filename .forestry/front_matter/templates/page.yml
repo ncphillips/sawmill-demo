@@ -15,5 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
-- content/_index.md
 - content/about.md
+- content/_index.md
